@@ -1,5 +1,5 @@
 body {
-  background: #f3f3f3;
+  background: #333333;
   font-family: 'Crimson Text', serif;
 }
 
@@ -10,4 +10,6 @@ body {
 
 #logo {
   text-align: right;
+  font-size: 42px;
+  color: white;
 }
